@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|D:\\Trainings\\C#\\.Net---C-training\\Draft\\draft\\string2switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|solutionrelative:draft\\string2switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|d:\\trainings\\c#\\.net---c-training\\draft\\draft\\incrementing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|solutionrelative:draft\\incrementing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|d:\\trainings\\c#\\.net---c-training\\draft\\draft\\quiz app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|D:\\Trainings\\C#\\.Net---C-training\\Draft\\draft\\quiz app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|solutionrelative:draft\\quiz app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|D:\\Trainings\\C#\\.Net---C-training\\Draft\\draft\\string2switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC69927A-2B38-43E0-8D5A-E2CA70753871}|Draft\\Draft.csproj|solutionrelative:draft\\string2switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "string2switch.cs",
-              "DocumentMoniker": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\Draft\\string2switch.cs",
-              "RelativeDocumentMoniker": "Draft\\string2switch.cs",
-              "ToolTip": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\Draft\\string2switch.cs",
-              "RelativeToolTip": "Draft\\string2switch.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAQwE8AAAAfAAAAAAAAAA==",
+              "Title": "Incrementing.cs",
+              "DocumentMoniker": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\Draft\\Incrementing.cs",
+              "RelativeDocumentMoniker": "Draft\\Incrementing.cs",
+              "ToolTip": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\Draft\\Incrementing.cs",
+              "RelativeToolTip": "Draft\\Incrementing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T13:42:00.766Z",
+              "WhenOpened": "2025-01-13T13:12:27.014Z",
               "EditorCaption": ""
             },
             {
@@ -53,10 +57,21 @@
               "RelativeDocumentMoniker": "Draft\\Quiz app.cs",
               "ToolTip": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\Draft\\Quiz app.cs",
               "RelativeToolTip": "Draft\\Quiz app.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T13:09:38.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T11:01:33.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "string2switch.cs",
+              "DocumentMoniker": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\Draft\\string2switch.cs",
+              "RelativeDocumentMoniker": "Draft\\string2switch.cs",
+              "ToolTip": "D:\\Trainings\\C#\\.Net---C-training\\Draft\\Draft\\string2switch.cs",
+              "RelativeToolTip": "Draft\\string2switch.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:56:23.382Z"
             }
           ]
         }

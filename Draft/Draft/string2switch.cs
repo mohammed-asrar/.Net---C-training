@@ -8,7 +8,7 @@ namespace Draft
         static void Main(string[] args)
 
         {
-            /*
+            
             Console.WriteLine(" CAD Customization Training");
             Console.WriteLine("     CAD Customization Training");
             Console.WriteLine("         CAD Customization Training");
@@ -155,7 +155,7 @@ namespace Draft
 
             //If Statement
             bool isRainy = true;
-            bool hasumberlla = true;
+            bool hasumberlla = false;
 
             if (isRainy)
             {
@@ -275,7 +275,7 @@ namespace Draft
                 Console.WriteLine("You can't process further more");
             }
             
-            */
+            
             // Clubbing Method
             Console.WriteLine("How old are you?");
             int personage = int.Parse(Console.ReadLine());
