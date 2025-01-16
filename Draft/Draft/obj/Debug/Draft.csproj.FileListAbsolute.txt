@@ -1,0 +1,14 @@
+D:\Trainings\C#\Draft\Draft\bin\Debug\Draft.exe.config
+D:\Trainings\C#\Draft\Draft\bin\Debug\Draft.exe
+D:\Trainings\C#\Draft\Draft\bin\Debug\Draft.pdb
+D:\Trainings\C#\Draft\Draft\obj\Debug\Draft.csproj.AssemblyReference.cache
+D:\Trainings\C#\Draft\Draft\obj\Debug\Draft.csproj.CoreCompileInputs.cache
+D:\Trainings\C#\Draft\Draft\obj\Debug\Draft.exe
+D:\Trainings\C#\Draft\Draft\obj\Debug\Draft.pdb
+D:\Trainings\C#\.Net---C-training\Draft\Draft\bin\Debug\Draft.exe.config
+D:\Trainings\C#\.Net---C-training\Draft\Draft\bin\Debug\Draft.exe
+D:\Trainings\C#\.Net---C-training\Draft\Draft\bin\Debug\Draft.pdb
+D:\Trainings\C#\.Net---C-training\Draft\Draft\obj\Debug\Draft.csproj.AssemblyReference.cache
+D:\Trainings\C#\.Net---C-training\Draft\Draft\obj\Debug\Draft.csproj.CoreCompileInputs.cache
+D:\Trainings\C#\.Net---C-training\Draft\Draft\obj\Debug\Draft.exe
+D:\Trainings\C#\.Net---C-training\Draft\Draft\obj\Debug\Draft.pdb
